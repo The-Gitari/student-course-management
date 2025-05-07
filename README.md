@@ -30,8 +30,8 @@ The database consists of the following tables:
 
 ### Steps:
 1. Open DBeaver and connect to your SQL database.
-2. Run `create_tables.sql` to create the schema.
-3. Run `insert_data.sql` to insert sample data.
+2. Run `coursemanagement.sql` to create the schema.
+3. Run `insert_values.sql` to insert sample data.
 4. Use `queries.sql` to execute required queries.
 
 ---
@@ -75,7 +75,7 @@ The database consists of the following tables:
 
 The entire project (SQL files + this README) is pushed to GitHub at:
 
-**GitHub Repo**: [https://github.com/yourusername/student-course-management](https://github.com/yourusername/student-course-management)
+**GitHub Repo**: (https://github.com/The-Gitari/student-course-management.git)
 
 ---
 
